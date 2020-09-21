@@ -1,3 +1,3 @@
-class SchoolClass < ApplicationRecord
-    
+class SchoolClass < ActiveRecord::Base
+
 end
